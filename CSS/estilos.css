@@ -241,9 +241,6 @@ ul li p img{
 			position: relative;
 			bottom: -95px;
 	}
-    form{
-        width: 100%;
-    }
 }
 
 @media screen and (max-width:560px) {
