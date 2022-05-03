@@ -287,7 +287,10 @@ ul li p img{
         font-size: small;
     }
     ul li p{
+        padding-top: 10px;
         font-size: medium;
+        text-align: center;
+        padding-right: 10%;
     }
 }
 
